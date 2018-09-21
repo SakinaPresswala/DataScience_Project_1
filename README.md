@@ -2,7 +2,8 @@
 Walmart Predictive Analytics Project
 Description:The goal was to come up with a model that could predict Walmart's average weekly sales for a user input StoreID and month. Our team also did some miscellaneous analysis such as creating graphs for top 10 and bottom 10 departments for a user input month.
 
-Data:https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/data
+Data: Raw data files can be obtained from the following link:
+https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/data
 
 stores.csv
 This file contains anonymized information about the 45 stores, indicating the type and size of store.
